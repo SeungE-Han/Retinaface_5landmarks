@@ -1,5 +1,5 @@
-# Retinaface_68landmarks
-face detect by Retinaface with 68 landmarks
+# Retinaface_5landmarks
+face detect by Retinaface with 5 landmarks
 
 * weights/Resnet50_Final.pth need
 
